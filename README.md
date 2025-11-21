@@ -1,3 +1,11 @@
+## Project Structure  
+- Fake_News_Detection.ipynb  
+- dataset/  
+   - news.csv  
+- README.md  
+- FakeNewsDataset_Sample.pdf
+
+- 
 # Fake-News-Detection-Using-Machin-learning-Techniques
 Fake News Detection using Machine Learning (TF-IDF + Passive Aggressive Classifier)
 # Fake News Detection using Machine Learning
@@ -39,3 +47,6 @@ A labelled fake news dataset containing news text and corresponding labels (Real
 **Jadi Swar...**  
 Final year B.Tech CSE student interested in Python, Web Development, and Machine Learning.
 
+### Notebook Preview  
+You can view the full notebook on Google Colab: [Open in Colab](https://colab.research.google.com/…)
+ 
