@@ -34,7 +34,7 @@ A labelled fake news dataset containing news text and corresponding labels (Real
 
 ## Results
 
-- Model achieved around **XX% accuracy** on the test set.
+- Model achieved around **93% accuracy** on the test set.
 
 ## How to Run
 
